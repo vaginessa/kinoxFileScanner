@@ -1,0 +1,14 @@
+{
+  "name": "kinoxfilescanner",
+  "version": "1.0.0",
+  "description": "Scans files for kinox Database (Filmz, Shows)",
+  "main": "scan.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "pimpelkram",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^10.5.3"
+  }
+}
